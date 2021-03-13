@@ -11,6 +11,7 @@ public class FirstClass {
 		//I will conflict may remote master branch
 
 		//Hey guys this is our remote master branch
+		//here is another conflicting line on master branch
 
 	}
 }
